@@ -1,0 +1,53 @@
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python .\evaluation1.py > 20250403_evaluation1.log 2>&1 & 
+[1] 86452
+
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python .\evaluation2.py > 20250403_evalu
+ation2.log 2>&1 & 
+[1]+  退出 2                nohup python .\evaluation1.py > 20250403_evaluation1.log 2>&1
+[1] 91513
+
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python .\evaluation3.py > 20250403_evalu
+ation3.log 2>&1 & 
+[1]+  退出 2                nohup python .\evaluation2.py > 20250403_evaluation2.log 2>&1
+[1] 94821
+
+
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation3.py > 20250403_evaluat
+ion3.log 2>&1 & 
+[1]+  退出 2                nohup python .\evaluation3.py > 20250403_evaluation3.log 2>&1
+[1] 100115
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation2.py > 20250403_evaluat
+ion2.log 2>&1 & 
+[2] 101789
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation1.py > 20250403_evaluation1.log 2>&1 & 
+[3] 105182
+
+0404/19:03
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation4.py > 202
+50404_evaluation4.log 2>&1 &
+[1] 74187
+
+0404/19:06
+(ykwang_med) (base) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation5.py > 2025
+0404_evaluation5.log 2>&1 &
+[2] 85369
+
+0405/16:14
+(ykwang_med) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation6.py > 20250404_evaluation6.log 2>&1 &
+[1] 95643
+
+0405/16:19
+(ykwang_med) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation7.py > 20250404_evaluation7.log 2>&1 &
+[2] 96045
+
+0405/23:56
+(ykwang_med) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation8.py > 20250404_evaluation8.log 2>&1 &
+[1] 106398
+
+(ykwang_med) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation8.py > 20250404_evaluation8.log 2>&1 &
+[2] 3655
+
+0406/10:49
+(ykwang_med) yhzhang@qlb-AS-4124GS-TNR:~/wyk_r1/USTC$ nohup python evaluation9.py > 20250404_evaluatio
+n9.log 2>&1 &
+[1] 44841

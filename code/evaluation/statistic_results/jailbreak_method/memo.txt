@@ -1,0 +1,6 @@
+就差mulberry_llava_8B的后5个，现在
+vscode：上的20250403_exp_on_MM-SafetyBench_exp1_3.log上跑09（8/138），余下10（129）
+
+jupyter:20250404_exp_on_MM-SafetyBench_exp1.log跑11，12
+
+
